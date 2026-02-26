@@ -1,0 +1,15 @@
+2026-02-20 15:35:12,677 - INFO - Counting vowels in the string: abschhbd
+2026-02-20 15:36:10,393 - INFO - Counting vowels in the string: afbs
+2026-02-20 15:38:01,993 - INFO - Counting vowels in the string
+2026-02-20 15:38:01,994 - INFO - Vowel count calculated: 1
+2026-02-20 15:59:13,913 - INFO - Calculating character frequency
+2026-02-20 15:59:13,916 - INFO - Character frequency calculated: {'y': 2, 'a': 2, 's': 2, 'h': 2, 'k': 1, 'j': 1}
+2026-02-20 16:05:22,665 - INFO - Finding second largest element in the list
+2026-02-20 16:05:22,665 - ERROR - List must contain at least two elements
+2026-02-20 16:06:26,964 - INFO - Finding second largest element in the list
+2026-02-20 16:06:26,965 - ERROR - List must contain at least two elements
+2026-02-20 16:06:38,483 - INFO - Finding second largest element in the list
+2026-02-20 16:06:38,488 - INFO - Second largest element calculated: 2
+2026-02-20 16:06:53,140 - INFO - Finding second largest element in the list
+2026-02-20 16:06:53,141 - INFO - Second largest element calculated: 53
+2026-02-20 22:20:23,787 - INFO - Counting vowels in the string: yashkumar
